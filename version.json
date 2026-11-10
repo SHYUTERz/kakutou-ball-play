@@ -1,0 +1,37 @@
+{
+  "version": "0.2.1-polish",
+  "sourceCommit": "7e06a667aba4720f358b42507bd8714de82e82ac",
+  "packagedAt": "2026-11-10T12:41:13.011Z",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 3173,
+      "sha256": "cf8b182a762d78baa5f745e92b26812e3741357e15d173759d5f27aac810c685"
+    },
+    {
+      "path": "title.png",
+      "bytes": 1452486,
+      "sha256": "4cd306aac77791b94e07c9dd5f2fa1ceaa74a95f6322c3c361693c90b4447694"
+    },
+    {
+      "path": "Build/Web.data",
+      "bytes": 8777189,
+      "sha256": "5e0214aeacf105dabd8b1b13e13c564718f4346a4617acf56ad7adecb552188b"
+    },
+    {
+      "path": "Build/Web.framework.js",
+      "bytes": 406297,
+      "sha256": "34d1e35e27012009b5fdaf3d4d268532d4c37db1e087f30301ae5a38965512ab"
+    },
+    {
+      "path": "Build/Web.loader.js",
+      "bytes": 26982,
+      "sha256": "0886bf367ad3aa1c9dbce796e300becc3218bb02cea8340166ad1efe1fecec2f"
+    },
+    {
+      "path": "Build/Web.wasm",
+      "bytes": 16241033,
+      "sha256": "06139f25b4a98c8bf68a92023b37fa15c512eb6f9c4338597b02d1fa907ad00e"
+    }
+  ]
+}
